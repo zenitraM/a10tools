@@ -1,3 +1,5 @@
+**Please check [https://github.com/amery/sunxi-tools] for a more complete and updated tool :)**
+
 Allwinner A10 hacking tools
 ===========================
 
